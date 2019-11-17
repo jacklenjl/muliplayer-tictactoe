@@ -1,1 +1,1 @@
-<h1>this is multiplayer tic-tac-toe by pubnub </h1>
+<h1>this is multiplayer tic-tac-toe by pubnub implementation </h1>
