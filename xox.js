@@ -1,6 +1,6 @@
 const pubnub = new PubNub({
-  publishKey: "pub-c-91c489e2-09e0-4da5-abbe-a67c7ec3bd1b",
-  subscribeKey: "sub-c-893ceeaa-0866-11ea-98aa-b207d7d0b791"
+  publishKey: "pub_nub_key",
+  subscribeKey: "pub_nub_key"
 });
 pubnub.subscribe({
   channels: ["my_channel"]
